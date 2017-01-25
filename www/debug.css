@@ -1,3 +1,8 @@
+* {
+  background-color: #101828;
+  color: #3565bf; 
+  border-radius: 0.5vw;
+}
 svg {
   font: 10px sans-serif;
 }
@@ -9,7 +14,7 @@ svg {
 .axis path,
 .axis line {
   fill: none;
-    stroke: #000;
+  stroke: #000;
   shape-rendering: crispEdges;
 }
 
